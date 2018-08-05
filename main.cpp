@@ -8,7 +8,6 @@
 #include <sys/ioctl.h>			// local mac_ip
 #include <net/if.h>			// local mac_ip
 #include <unistd.h>			// [socket]close()
-//#include <stdio.h>
 
 #define INET_ADDR_LEN	4
 
